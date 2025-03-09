@@ -1,0 +1,960 @@
+{
+  "Cluster_1": [
+    {
+      "timestamp": "2025-03-09T08:10:02.881096",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:02.881096",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.894735",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.894735",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.908736",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:02.908736",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.921735",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.921735",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.938809",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.938809",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.941808",
+      "data": {
+        "performance": 0.6,
+        "strategy_id": "strategi_1",
+        "success_rate": 0.6,
+        "total_commands": 5
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:07.935745",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:07.935745",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:07.962036",
+      "data": {
+        "performance": 0.6666666666666666,
+        "strategy_id": "strategi_1",
+        "success_rate": 0.6666666666666666,
+        "total_commands": 6
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:07.972910",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:07.972910",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:07.979913",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:07.979913",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:07.999106",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:07.999106",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.003105",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:08.003105",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:12.970580",
+      "data": {
+        "performance": 0.7,
+        "strategy_id": "strategi_1",
+        "success_rate": 0.7,
+        "total_commands": 10
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:12.989789",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:12.989789",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.006514",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.006514",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.021510",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.021510",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.038217",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:13.038217",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.041215",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:13.040214",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:17.977235",
+      "data": {
+        "performance": 0.6666666666666666,
+        "strategy_id": "strategi_1",
+        "success_rate": 0.6666666666666666,
+        "total_commands": 15
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.032181",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.032181",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.046570",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.046570",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.062627",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.062627",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.079278",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.079278",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.083289",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.083289",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_1"
+      }
+    }
+  ],
+  "Cluster_2": [
+    {
+      "timestamp": "2025-03-09T08:10:02.961625",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.961625",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.975625",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.975625",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:02.990937",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:02.990937",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:03.005939",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:03.005939",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:03.020356",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:03.020356",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:03.024358",
+      "data": {
+        "performance": 1.0,
+        "strategy_id": "strategi_2",
+        "success_rate": 1.0,
+        "total_commands": 5
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.028907",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:08.028907",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.053934",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:08.053934",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.057905",
+      "data": {
+        "performance": 0.7142857142857143,
+        "strategy_id": "strategi_2",
+        "success_rate": 0.7142857142857143,
+        "total_commands": 7
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.093305",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:08.093305",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.108219",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:08.108219",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.121310",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:08.121310",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.116653",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.115652",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.125907",
+      "data": {
+        "performance": 0.5454545454545454,
+        "strategy_id": "strategi_2",
+        "success_rate": 0.5454545454545454,
+        "total_commands": 11
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.129930",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:13.129930",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.144908",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.144908",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.163225",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.163225",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.177193",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:13.177193",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": false
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.136767",
+      "data": {
+        "performance": 0.6,
+        "strategy_id": "strategi_2",
+        "success_rate": 0.6,
+        "total_commands": 15
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.155487",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:18.155487",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.171999",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.171999",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.188595",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:18.188595",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.201289",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.201289",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.204644",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:18.204644",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_2"
+      }
+    }
+  ],
+  "Cluster_3": [
+    {
+      "timestamp": "2025-03-09T08:10:04.136932",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:04.136932",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:04.140933",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:04.140933",
+        "details": {
+          "success": true,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:04.166703",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:04.166703",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:04.171706",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:04.171706",
+        "details": {
+          "success": false,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:04.179702",
+      "data": {
+        "command": "click_at(500, 500)",
+        "command_type": "click",
+        "success": false,
+        "timestamp": "2025-03-09T08:10:04.179702",
+        "details": {
+          "success": false,
+          "x": 500,
+          "y": 500,
+          "element_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:08.173447",
+      "data": {
+        "performance": 0.4,
+        "strategy_id": "strategi_3",
+        "success_rate": 0.4,
+        "total_commands": 5
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:09.183252",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:09.183252",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:09.187260",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:09.187260",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:09.198368",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:09.198368",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:09.216776",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:09.215771",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:09.221768",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:09.221768",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": false
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:13.189309",
+      "data": {
+        "performance": 0.7,
+        "strategy_id": "strategi_3",
+        "success_rate": 0.7,
+        "total_commands": 10
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:14.220903",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:14.220903",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:14.223903",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:14.223903",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:14.234533",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:14.234533",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:14.253436",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:14.253436",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:14.257435",
+      "data": {
+        "command": "write('test input')",
+        "command_type": "keyboard",
+        "success": true,
+        "timestamp": "2025-03-09T08:10:14.257435",
+        "details": {
+          "success": true,
+          "text": "test input",
+          "field_detected": true
+        },
+        "strategy_id": "strategi_3"
+      }
+    },
+    {
+      "timestamp": "2025-03-09T08:10:18.196262",
+      "data": {
+        "performance": 0.8,
+        "strategy_id": "strategi_3",
+        "success_rate": 0.8,
+        "total_commands": 15
+      }
+    }
+  ]
+}

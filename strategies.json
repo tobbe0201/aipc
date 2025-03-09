@@ -1,0 +1,32 @@
+{
+  "strategi_1": {
+    "id": "strategi_1",
+    "name": "Utforska Anv\u00e4ndargr\u00e4nssnitt",
+    "description": "Identifiera och interagera med UI-element",
+    "params": {
+      "focus_area": "desktop",
+      "interaction_type": "buttons_first",
+      "risk_level": "low"
+    }
+  },
+  "strategi_2": {
+    "id": "strategi_2",
+    "name": "Textinmatning och S\u00f6kning",
+    "description": "Fokusera p\u00e5 att skriva text och s\u00f6ka efter information",
+    "params": {
+      "focus_area": "search_fields",
+      "interaction_type": "keyboard_input",
+      "risk_level": "low"
+    }
+  },
+  "strategi_3": {
+    "id": "strategi_3",
+    "name": "Navigering och Utforskning",
+    "description": "Utforska filsystem och appar",
+    "params": {
+      "focus_area": "file_explorer",
+      "interaction_type": "mixed",
+      "risk_level": "medium"
+    }
+  }
+}

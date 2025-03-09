@@ -1,0 +1,6 @@
+2025-03-09 08:12:08,815 [INFO] PyTorch använder enhet: cpu
+2025-03-09 08:12:09,715 [WARNING] Kunde inte ladda YOLOv5 via torch hub: No module named 'requests'
+2025-03-09 08:12:09,717 [WARNING] YOLOv5 är inte installerat lokalt
+2025-03-09 08:12:09,717 [WARNING] YOLO-viktfiler saknas i models\yolov3-ui.weights
+2025-03-09 08:12:09,723 [INFO] Arbetare 0 startad
+2025-03-09 08:12:09,723 [INFO] Arbetare 1 startad

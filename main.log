@@ -1,0 +1,1 @@
+2025-03-09 05:27:33,679 [ERROR] Fel vid start av användargränssnittet: No module named 'win32gui'
